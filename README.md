@@ -1,0 +1,2 @@
+# kml_optimizer
+A python script written to compress a KML file. The code is set up to reduce the size of a KML file, while minimizing the loss of polygon shape quality in the file. This is really helpful to people such as GIS and BI Analysts facing KML file size constraints with their mapping and analytic tools. The script comes with three compression settings to help handle the different circumstances that often come up.
