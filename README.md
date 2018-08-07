@@ -47,5 +47,5 @@ python kml_optimizer.py "England local council overlay.kml" "high"
 ### Before Optimization: 3MB File Size
 [![Screenshot_from_2017-10-21_03-22-22.png](https://s33.postimg.cc/oo8tg6glb/Screenshot_from_2017-10-21_03-22-22.png)](https://postimg.cc/image/pqizypzej/)
 
-### After Optimization: 2.5MB Files Size
+### After Optimization: 2.5MB File Size
 [![Screenshot_from_2017-10-21_03-22-39.png](https://s33.postimg.cc/v1xwjeb6n/Screenshot_from_2017-10-21_03-22-39.png)](https://postimg.cc/image/oo8tg56aj/)
